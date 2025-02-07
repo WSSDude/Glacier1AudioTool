@@ -1,5 +1,12 @@
 # Glacier 1 Audio Tool
 
+## Requires latest VC++2022 runtime
+
+You can download it from here:
+https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+If it says it is already installed, hit repair in the installer.
+
 ## Supported
 
 ### Hitman: Codename 47
